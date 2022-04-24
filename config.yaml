@@ -1,0 +1,23 @@
+baseURL: "https://zidan.xploit.my.id"
+languageCode: "ind"
+title: "}{ploIT"
+pygmentsstyle: 'monokai'
+metaDataFormat: yaml
+
+# Theme settings
+theme: hugo-theme-novela
+    
+paginate: 6
+
+social:
+  twitter: "#"
+  github: "#"
+  instagram: "#"
+  linkedin: "#"
+  dribbble: "#"
+  youtube: "#"
+  
+taxonomies:
+  author: authors
+  
+disqusShortname: XYW
