@@ -9,8 +9,41 @@ authors:
 
 ---
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Alat ini berfungsi untuk menambahkan repositori kali linux ke repositori ubuntu secara instan. Sehingga pengguna ubuntu dapat menginstall beberapa tools yang ada pada kali linux dengan mudah.
-<!--more-->
 
 ### Car Install ToolsBox
 
