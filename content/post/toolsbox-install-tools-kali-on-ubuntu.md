@@ -3,7 +3,7 @@ title: 'ToolsBox: Install Tools Kali On Ubuntu'
 date: 2022-04-23T17:00:00.000+00:00
 hero: "/images/68747470733a2f2f692e696d6775722e636f6d2f5a774d4f4a61462e706e67.png"
 excerpt: Alat ini berfungsi untuk menambahkan repositori kali linux ke repositori ubuntu secara instan.
-timeToRead: 1
+timeToRead: 4
 authors:
  - Zidan
 
