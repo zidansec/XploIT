@@ -42,3 +42,4 @@ fields:
   label: Authors
 pages:
 - content/post/hallo-world.md
+- content/post/toolsbox-install-tools-kali-on-ubuntu.md
