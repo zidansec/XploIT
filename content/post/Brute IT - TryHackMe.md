@@ -1,13 +1,4 @@
 ---
-timeToRead: 0
-authors: []
-title: ''
-excerpt: ''
-date: 
-hero: ''
-
----
----
 title: "Brute IT - TryHackMe"
 date: 2022-25-04
 hero: "/images/hero-3.jpg"
@@ -147,4 +138,3 @@ THM{pr1v1l3g3_3sc4l4t10n}
 ```
 
 ![./images/Untitled12.png](./images/Untitled12.png)
-
