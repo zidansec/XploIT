@@ -41,5 +41,4 @@ fields:
   default: []
   label: Authors
 pages:
-- content/post/Brute IT - TryHackMe.md
 - content/post/hallo-world.md
