@@ -1,6 +1,6 @@
 ---
 timeToRead: 1
-authors: []
+authors: Zidan
 title: 'ToolsBox: Install Tools Kali On Ubuntu'
 excerpt: Alat ini berfungsi untuk menambahkan repositori kali linux ke repositori
   ubuntu secara instan.
