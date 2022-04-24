@@ -12,12 +12,12 @@ Alat ini berfungsi untuk menambahkan repositori kali linux ke repositori ubuntu 
 
 ### Car Install ToolsBox
 
-    git clone https://github.com/zidansec/ToolsBox.git
-    
-    cd ToolsBox
-    
-    chmod +x toolsbox
-    
-    ./toolsbox
+git clone https://github.com/zidansec/ToolsBox.git
+
+cd ToolsBox
+
+chmod +x toolsbox
+
+./toolsbox
 
 ![](/images/68747470733a2f2f692e696d6775722e636f6d2f634375565048352e706e67.png)
