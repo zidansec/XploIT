@@ -11,7 +11,7 @@
     -webkit-box-pack: justify;
         -ms-flex-pack: justify;
             justify-content: space-between;
-    padding-bottom: 80px;
+    padding-bottom: 25px;
     color: var(--grey);
 }
 
@@ -29,7 +29,7 @@
 /*PHABLET*/
 @media screen and (max-width: 540px){
     .footer-container{
-        padding-bottom: 50px;
+        padding-bottom: 10px;
     }
 }
 
@@ -121,14 +121,14 @@
 
 @media screen and (max-height: 800px) {
     .nav-container{
-        padding-top: 50px;
+        padding-top: 20px;
     }
 }
 
 /*DESKTOP MEDIUM*/
 @media screen and (max-width: 1280px){
     .nav-container{
-        padding-top: 50px;
+        padding-top: 1px;
     }
 }
 
