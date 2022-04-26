@@ -47,13 +47,6 @@
     margin-right: 0;
 }
 
-/*TABLET*/
-@media screen and (max-width: 735px){
-    .social-icon-container{
-        margin: 0 2.2rem;
-    }
-}
-
 .social-icon-image{
     path{
         fill: var(--grey);
